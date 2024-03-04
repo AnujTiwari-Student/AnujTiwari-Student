@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anuj Kumar Tiwari
 ======================================================================================================================================
-<h4>A Full-Stack developer | Web Designer</h4>
+<h4>A Web Devloper | Web Designer</h4>
 
 <!-- - 🔭 I’m currently working on a MERN Project -->
 - 🌱 I’m Interested to work on Web 3.0
@@ -28,13 +28,13 @@ src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/ANUJAVENGERS"><img src="https://github-readme-stats.vercel.app/api?username=dipayansarkar47&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anuj Kumar Tiwari GitHub stats" /></a>
+<a href="https://github.com/ANUJAVENGERS"><img src="https://github-readme-stats.vercel.app/api?username=ANUJAVENGERS&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anuj Kumar Tiwari GitHub stats" /></a>
 
-<a href="https://github.com/ANUJAVENGERS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipayansarkar47&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/ANUJAVENGERS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ANUJAVENGERS&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ANUJAVENGERS"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dipayansarkar47&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/ANUJAVENGERS"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ANUJAVENGERS&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/dipayansarkar47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipayansarkar47&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ANUJAVENGERS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUJAVENGERS&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
