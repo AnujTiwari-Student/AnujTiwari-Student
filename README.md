@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h4>A Web Devloper | Web Designer</h4>
 
 - 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: anujavengers@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
