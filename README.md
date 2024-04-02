@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/ANUJAVENGERS?logo=github&style=for-
 
 <a href="https://github.com/ANUJAVENGERS"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixe.la%2F&psig=AOvVaw2e9pNjLIgjk62L5IPCsDbA&ust=1709656460980000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOij5-SE24QDFQAAAAAdAAAAABAF" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ANUJAVENGERS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUJAVENGERS&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ANUJAVENGERS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUJAVENGERS&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%60%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
