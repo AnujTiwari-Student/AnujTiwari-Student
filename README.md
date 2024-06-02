@@ -52,11 +52,15 @@
 <hr/>
 
 <div align="center">
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ANUJAVENGERS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ANUJAVENGERS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANUJAVENGERS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <h2>📊 GitHub Stats:</h2>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANUJAVENGERS&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANUJAVENGERS&theme=dark&hide_border=false"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUJAVENGERS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
+
 
 <br/><br/>
 
