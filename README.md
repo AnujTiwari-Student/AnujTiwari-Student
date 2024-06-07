@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ANUJAVENGERS/ANUJAVENGERS/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -54,11 +54,11 @@
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ANUJAVENGERS&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnujTiwari-StudentS&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANUJAVENGERS&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujTiwari-Student&theme=dark&hide_border=false"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUJAVENGERS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujTiwari-Student&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 <br/>
