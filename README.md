@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React-native , AWS**
 
-💬 Ask me about **Html, Css, Js, React, Firebase... or anything [here](https://github.com/ANUJAVENGERS)**
+💬 Ask me about **Html, Css, Js, React, Firebase... or anything [here](https://github.com/AnujTiwari-Student)**
 
 ⚡ Connect With me **anujavengers@gmail.com**
 
@@ -54,7 +54,7 @@
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AnujTiwari-StudentS&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnujTiwari-Student&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujTiwari-Student&theme=dark&hide_border=false"/>
   <br/>
