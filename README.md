@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=ANUJAVENGERS&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AnujTiwari-Student&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anuj+Tiwari!;" />
