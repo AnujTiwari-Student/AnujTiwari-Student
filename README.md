@@ -58,8 +58,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=AnujTiwari-Student&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/api?user=AnujTiwari-Student&theme=dark&hide_border=false"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujTiwari-Student&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
