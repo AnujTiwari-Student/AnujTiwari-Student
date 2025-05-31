@@ -56,9 +56,11 @@
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AnujTiwari-Student&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+    https://github-readme-stats.vercel.app/api?username=AnujTiwari-Student&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujTiwari-Student&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    https://github-readme-streak-stats.herokuapp.com/?user=AnujTiwari-Student&theme=vue-dark&hide_border=true
+    <br/>
+    https://github-readme-stats.vercel.app/api/top-langs/?username=AnujTiwari-Student&theme=vue-dark&show_icons=true&hide_border=true&layout=compact
 </div>
 
 <br/>
