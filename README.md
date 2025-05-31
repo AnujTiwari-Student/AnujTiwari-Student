@@ -55,6 +55,7 @@
 
 <div align="center">
   📊 GitHub Stats:
+  <br/>
 
 ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnujTiwari-Student&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -67,8 +68,6 @@
 [![](https://visitcount.itsvg.in/api?id=AnujTiwari-Student&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-<br/>
 
 <hr/>
 
