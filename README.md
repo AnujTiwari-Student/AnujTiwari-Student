@@ -6,12 +6,12 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" height="50%" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="70%" height="50%" />
 
 ## 📌 About Me
 - 🔭 I’m currently working as a **student**
-- 🌱 I’m currently learning **React-native , AWS**
-- 💬 Ask me about **Html, Css, Js, React, Firebase... or anything [here](https://github.com/AnujTiwari-Student)**
+- 🌱 I’m currently learning **Go Lang , AWS**
+- 💬 Ask me about **Html, Css, Js, React, Next JS... or anything [here](https://github.com/AnujTiwari-Student)**
 - ⚡ Connect With me **anujavengers@gmail.com**
 
 
