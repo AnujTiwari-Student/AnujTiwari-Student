@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working as a **student**<br> <br> 🌱 I’m currently learning **React-native , AWS**<br><br>💬 Ask me about **Html, Css, Js, React, Firebase... or anything [here](https://github.com/AnujTiwari-Student)**<br><br>⚡ Connect With me **anujavengers@gmail.com**
 
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/monkey2901) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__anuj_tiwari__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuj-kumar-tiwari-770a84238/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anuj Tiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anujavengers@gmail.com) 
