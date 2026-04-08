@@ -65,7 +65,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/output/commit-invaders-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/output/commit-invaders.svg" />
-  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/output/commit-invaders.svg" />
+  <img align="center" width="100%" alt="Commit Invaders" src="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/output/commit-invaders.svg" />
 </picture>
 
 <div align="center">
