@@ -21,6 +21,15 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Debug: see what the action actually produced
+      - name: Debug - list all files
+        run: find . -not -path './.git/*' | sort
+
+      - name: Prepare dist folder
+        run: |
+          mkdir -p dist
+          mv space-invaders.svg dist/
+
       # NEW: move the output file into the dist folder
       - name: Prepare dist folder
         run: |
