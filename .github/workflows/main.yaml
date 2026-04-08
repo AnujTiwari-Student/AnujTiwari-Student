@@ -14,16 +14,19 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      # STEP 1: MUST check out the repo so git commands work
       - uses: actions/checkout@v3
 
-      # STEP 2: Generate the game files
       - uses: Goblinlordx/commit-invaders@main
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      # STEP 3: Deploy to the output branch
+      # NEW: move the output file into the dist folder
+      - name: Prepare dist folder
+        run: |
+          mkdir -p dist
+          mv space-invaders.svg dist/
+
       - name: push space-invaders.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
