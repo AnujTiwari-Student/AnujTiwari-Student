@@ -21,23 +21,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Debug: see what the action actually produced
-      - name: Debug - list all files
-        run: find . -not -path './.git/*' | sort
-
       - name: Prepare dist folder
         run: |
           mkdir -p dist
           mv commit-invaders.svg dist/
           mv commit-invaders-dark.svg dist/
 
-      # NEW: move the output file into the dist folder
-      - name: Prepare dist folder
-        run: |
-          mkdir -p dist
-          mv space-invaders.svg dist/
-
-      - name: push space-invaders.svg to the output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
