@@ -1,12 +1,9 @@
 name: Generate Commit Invaders
 
 on:
-  # Run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *" 
-  # Allows you to run it manually
   workflow_dispatch:
-  # Runs on every push to the main branch
   push:
     branches:
       - main
@@ -20,6 +17,8 @@ jobs:
       - uses: Goblinlordx/commit-invaders@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          # THIS IS THE MISSING PART:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: push space-invaders.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
