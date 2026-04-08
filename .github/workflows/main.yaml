@@ -28,7 +28,8 @@ jobs:
       - name: Prepare dist folder
         run: |
           mkdir -p dist
-          mv space-invaders.svg dist/
+          mv commit-invaders.svg dist/
+          mv commit-invaders-dark.svg dist/
 
       # NEW: move the output file into the dist folder
       - name: Prepare dist folder
