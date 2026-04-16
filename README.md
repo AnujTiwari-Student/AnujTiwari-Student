@@ -8,7 +8,10 @@
   <img src="https://img.shields.io/badge/Learning-AWS%20%7C%20Go-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="22" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%" height="4"/>
+<!-- Go-themed animated terminal banner (replaces old PROGRAMMING gif) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/main/go-banner.svg" width="100%" height="120" alt="Go Banner"/>
+</div>
 
 <br/>
 
@@ -148,16 +151,13 @@ func main() {
 
 <br/>
 
-<!-- 🐹 Gopher Invaders — Go-themed animated game banner                        -->
-<!-- Filenames kept as commit-invaders / commit-invaders-dark so CI/CD never breaks -->
+<!-- Your real commit history — generated automatically by your existing CI/CD workflow -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/output/commit-invaders-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/output/commit-invaders.svg" />
-  <img align="center" width="100%" height="200" alt="Gopher Invaders" src="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/output/commit-invaders.svg" />
+  <img align="center" width="100%" height="200" alt="Commit Invaders" src="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/output/commit-invaders.svg" />
 </picture>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,4&section=footer" width="100%" height="120"/>
