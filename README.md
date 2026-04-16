@@ -9,9 +9,9 @@
 </p>
 
 <!-- Go-themed animated terminal banner (replaces old PROGRAMMING gif) -->
-<div align="center">
-	![banner](./sre-banner.svg)
-</div>
+<p align="center">
+  <img src="./sre-banner.png" width="100%" />
+</p>
 
 <br/>
 
