@@ -1,0 +1,189 @@
+<svg viewBox="0 0 800 120" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes typing {
+        0%  { width: 0 }
+        60% { width: 26ch }
+        80% { width: 26ch }
+        100%{ width: 0 }
+      }
+      @keyframes blink {
+        0%,100%{ opacity:1 } 50%{ opacity:0 }
+      }
+      @keyframes slide {
+        0%   { transform: translateX(820px) }
+        100% { transform: translateX(-200px) }
+      }
+      @keyframes slide2 {
+        0%   { transform: translateX(820px) }
+        100% { transform: translateX(-200px) }
+      }
+      @keyframes fadeIn {
+        0%  { opacity:0; transform:translateY(8px) }
+        100%{ opacity:1; transform:translateY(0) }
+      }
+      @keyframes pulse {
+        0%,100%{ opacity:0.6 } 50%{ opacity:1 }
+      }
+      @keyframes gopherFloat {
+        0%,100%{ transform: translateY(0px) }
+        50%    { transform: translateY(-6px) }
+      }
+
+      .tag  { font-family: monospace; font-size: 13px; fill: #5DC9E2; }
+      .kw   { font-family: monospace; font-size: 13px; fill: #CE3262; }
+      .fn   { font-family: monospace; font-size: 13px; fill: #00ADD8; }
+      .str  { font-family: monospace; font-size: 13px; fill: #f1c40f; }
+      .cmt  { font-family: monospace; font-size: 11px; fill: #555e6e; }
+
+      .typing-wrap {
+        overflow: hidden;
+        white-space: nowrap;
+        display: inline-block;
+        animation: typing 5s steps(26,end) infinite;
+        width: 0;
+      }
+      .cursor {
+        animation: blink 0.8s step-end infinite;
+        fill: #00ADD8;
+        font-family: monospace;
+        font-size: 13px;
+      }
+      .pill {
+        animation: slide 12s linear infinite;
+      }
+      .pill2 {
+        animation: slide2 12s 6s linear infinite;
+      }
+      .gopher-group {
+        animation: gopherFloat 2s ease-in-out infinite;
+      }
+    </style>
+
+    <!-- Gopher mini icon -->
+    <g id="gopher-mini">
+      <ellipse cx="14" cy="16" rx="12" ry="10" fill="#00ADD8"/>
+      <ellipse cx="5"  cy="8"  rx="3" ry="4"  fill="#00ADD8"/>
+      <ellipse cx="23" cy="8"  rx="3" ry="4"  fill="#00ADD8"/>
+      <ellipse cx="5"  cy="8"  rx="1.8" ry="2.8" fill="#5DC9E2"/>
+      <ellipse cx="23" cy="8"  rx="1.8" ry="2.8" fill="#5DC9E2"/>
+      <circle cx="10" cy="13" r="3.5" fill="white"/>
+      <circle cx="18" cy="13" r="3.5" fill="white"/>
+      <circle cx="10.5" cy="13" r="1.8" fill="#111"/>
+      <circle cx="18.5" cy="13" r="1.8" fill="#111"/>
+      <ellipse cx="14" cy="18" rx="2.2" ry="1.4" fill="#CE3262"/>
+      <rect x="12" y="19" width="2" height="3" rx="0.8" fill="white"/>
+      <rect x="15" y="19" width="2" height="3" rx="0.8" fill="white"/>
+    </g>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="120" fill="#0d1117"/>
+
+  <!-- Subtle grid -->
+  <line x1="0" y1="30"  x2="800" y2="30"  stroke="#161b22" stroke-width="1"/>
+  <line x1="0" y1="60"  x2="800" y2="60"  stroke="#161b22" stroke-width="1"/>
+  <line x1="0" y1="90"  x2="800" y2="90"  stroke="#161b22" stroke-width="1"/>
+  <line x1="200" y1="0" x2="200" y2="120" stroke="#161b22" stroke-width="1"/>
+  <line x1="400" y1="0" x2="400" y2="120" stroke="#161b22" stroke-width="1"/>
+  <line x1="600" y1="0" x2="600" y2="120" stroke="#161b22" stroke-width="1"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="3" height="120" fill="#00ADD8"/>
+
+  <!-- Gopher floating on left -->
+  <g class="gopher-group" transform="translate(18, 42)">
+    <use href="#gopher-mini"/>
+  </g>
+
+  <!-- Terminal code block (center-left) -->
+  <!-- Line 1 -->
+  <text x="65" y="30" class="kw">func</text>
+  <text x="103" y="30" class="fn">main</text>
+  <text x="135" y="30" font-family="monospace" font-size="13" fill="#e6edf3">() {</text>
+
+  <!-- Line 2: typing animation row -->
+  <text x="80" y="50" font-family="monospace" font-size="13" fill="#e6edf3">
+    <tspan class="fn">fmt</tspan><tspan fill="#e6edf3">.Println(</tspan><tspan class="str">"Building with Go"</tspan><tspan fill="#e6edf3">)</tspan>
+  </text>
+
+  <!-- Line 3 -->
+  <text x="65" y="70" font-family="monospace" font-size="13" fill="#e6edf3">}</text>
+  <text x="90" y="70" class="cmt">// commits pushed daily ☕</text>
+
+  <!-- Cursor blink -->
+  <text x="80" y="90" class="cursor">█</text>
+  <text x="94" y="90" class="cmt">$ go run . — Anuj Tiwari</text>
+
+  <!-- Right side: scrolling tech pills -->
+  <g class="pill" transform="translate(820,18)">
+    <rect width="60" height="20" rx="10" fill="#00ADD8" opacity="0.15"/>
+    <text x="30" y="14" font-family="monospace" font-size="10" fill="#00ADD8" text-anchor="middle">goroutine</text>
+  </g>
+  <g class="pill" transform="translate(910,18)">
+    <rect width="52" height="20" rx="10" fill="#CE3262" opacity="0.15"/>
+    <text x="26" y="14" font-family="monospace" font-size="10" fill="#CE3262" text-anchor="middle">channel</text>
+  </g>
+  <g class="pill" transform="translate(990,18)">
+    <rect width="44" height="20" rx="10" fill="#f1c40f" opacity="0.15"/>
+    <text x="22" y="14" font-family="monospace" font-size="10" fill="#f1c40f" text-anchor="middle">mutex</text>
+  </g>
+  <g class="pill" transform="translate(1060,18)">
+    <rect width="56" height="20" rx="10" fill="#00ADD8" opacity="0.15"/>
+    <text x="28" y="14" font-family="monospace" font-size="10" fill="#00ADD8" text-anchor="middle">interface</text>
+  </g>
+
+  <g class="pill2" transform="translate(820,18)">
+    <rect width="48" height="20" rx="10" fill="#5DC9E2" opacity="0.15"/>
+    <text x="24" y="14" font-family="monospace" font-size="10" fill="#5DC9E2" text-anchor="middle">struct</text>
+  </g>
+  <g class="pill2" transform="translate(900,18)">
+    <rect width="60" height="20" rx="10" fill="#CE3262" opacity="0.15"/>
+    <text x="30" y="14" font-family="monospace" font-size="10" fill="#CE3262" text-anchor="middle">go build .</text>
+  </g>
+  <g class="pill2" transform="translate(990,18)">
+    <rect width="52" height="20" rx="10" fill="#f1c40f" opacity="0.15"/>
+    <text x="26" y="14" font-family="monospace" font-size="10" fill="#f1c40f" text-anchor="middle">go test .</text>
+  </g>
+
+  <!-- Row 2 pills -->
+  <g class="pill2" transform="translate(820,50)">
+    <rect width="56" height="20" rx="10" fill="#00ADD8" opacity="0.12"/>
+    <text x="28" y="14" font-family="monospace" font-size="10" fill="#00ADD8" text-anchor="middle">go mod tidy</text>
+  </g>
+  <g class="pill" transform="translate(900,50)">
+    <rect width="44" height="20" rx="10" fill="#CE3262" opacity="0.12"/>
+    <text x="22" y="14" font-family="monospace" font-size="10" fill="#CE3262" text-anchor="middle">defer</text>
+  </g>
+  <g class="pill" transform="translate(972,50)">
+    <rect width="52" height="20" rx="10" fill="#5DC9E2" opacity="0.12"/>
+    <text x="26" y="14" font-family="monospace" font-size="10" fill="#5DC9E2" text-anchor="middle">go fmt .</text>
+  </g>
+
+  <!-- Row 3 pills -->
+  <g class="pill" transform="translate(820,82)">
+    <rect width="44" height="20" rx="10" fill="#f1c40f" opacity="0.12"/>
+    <text x="22" y="14" font-family="monospace" font-size="10" fill="#f1c40f" text-anchor="middle">panic</text>
+  </g>
+  <g class="pill2" transform="translate(890,82)">
+    <rect width="52" height="20" rx="10" fill="#00ADD8" opacity="0.12"/>
+    <text x="26" y="14" font-family="monospace" font-size="10" fill="#00ADD8" text-anchor="middle">recover</text>
+  </g>
+  <g class="pill2" transform="translate(970,82)">
+    <rect width="56" height="20" rx="10" fill="#CE3262" opacity="0.12"/>
+    <text x="28" y="14" font-family="monospace" font-size="10" fill="#CE3262" text-anchor="middle">Dockerfile</text>
+  </g>
+
+  <!-- Right border accent -->
+  <rect x="797" y="0" width="3" height="120" fill="#00ADD8"/>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="117" width="800" height="3" fill="url(#bottomGrad)"/>
+  <defs>
+    <linearGradient id="bottomGrad" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%"   stop-color="#00ADD8"/>
+      <stop offset="50%"  stop-color="#CE3262"/>
+      <stop offset="100%" stop-color="#00ADD8"/>
+    </linearGradient>
+  </defs>
+</svg>
