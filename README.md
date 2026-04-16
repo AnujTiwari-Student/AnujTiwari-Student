@@ -10,7 +10,7 @@
 
 <!-- Go-themed animated terminal banner (replaces old PROGRAMMING gif) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/main/go-banner.svg" width="100%" height="120" alt="Go Banner"/>
+  <img src="https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/main/sre-banner.svg" width="100%" height="120" alt="Go Banner"/>
 </div>
 
 <br/>
