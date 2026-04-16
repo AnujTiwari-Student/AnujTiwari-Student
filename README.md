@@ -10,7 +10,7 @@
 
 <!-- Go-themed animated terminal banner (replaces old PROGRAMMING gif) -->
 <p align="center">
-  <img src="./sre-banner.png" width="100%" />
+  <img src="./sre-banners.png" width="100%" />
 </p>
 
 <br/>
