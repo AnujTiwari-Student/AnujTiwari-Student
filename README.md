@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,4&text=Anuj%20Tiwari&fontSize=52&fontColor=00ADD8&animation=twinkling&fontAlignY=35&desc=Go%20Developer%20%7C%20Full%20Stack%20%7C%20DevOps&descSize=18&descAlignY=55&textBg=false" width="100%" height="220"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,4&text=Anuj%20Tiwari&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Go%20Developer%20%7C%20Full%20Stack%20%7C%20DevOps&descSize=18&descAlignY=55&textBg=false" width="100%" height="220"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnujTiwari-Student&label=Profile%20views&color=00ADD8&style=flat-square" height="22" alt="profile views" />
